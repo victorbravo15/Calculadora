@@ -1,1 +1,3 @@
-# Tragaperras
+# Calculadora
+
+Calculadora realizada en Java
